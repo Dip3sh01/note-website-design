@@ -6,7 +6,7 @@
 .header{
     min-height: 100vh;
     width: 100%;
-    background-image:linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/banner.jpg);
+    background-image:linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(banner.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -187,7 +187,7 @@ nav .fa{
 .header1{
     min-height: 120vh;
     width: 100%;
-    background-image:linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/banner.jpg);
+    background-image:linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(banner.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -195,7 +195,7 @@ nav .fa{
 
 
 .header1 img{
-    
+    cursor: pointer;
 }
 
 #container{
@@ -220,7 +220,7 @@ nav .fa{
     .header1{
     min-height: 150vh;
     width: 420px;
-    background-image:linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/banner.jpg);
+    background-image:linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(banner.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -239,14 +239,14 @@ nav .fa{
 .header2{
     min-height: 120vh;
     width: 100%;
-    background-image:linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/banner.jpg);
+    background-image:linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(banner.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
     
 }
 
-.header2 img{
+.header2 img{cursor: pointer;
     
 }
 
@@ -274,7 +274,7 @@ nav .fa{
     .header2{
     min-height: 140vh;
     width:420px;
-    background-image:linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/banner.jpg);
+    background-image:linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(banner.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -294,14 +294,14 @@ nav .fa{
 .header3{
      min-height: 120vh;
     width: 100%;
-    background-image:linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/banner.jpg);
+    background-image:linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(banner.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
     
 }
 
-.header3 img{
+.header3 img{cursor: pointer;
     
 }
 
@@ -327,7 +327,7 @@ nav .fa{
     .header3{
      min-height: 100vh;
     width:420px;
-    background-image:linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/banner.jpg);
+    background-image:linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(banner.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
